@@ -176,6 +176,10 @@
     "description": "Downloads all history from the repository bookmark."
   },
   {
+    "title": "git checkout -b new_branch",
+    "description": "This is a short hand way to create a new local branch in the local repository and at the same time checkin into it"
+  },
+  {
     "title": "git merge",
     "description": "Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches."
   },
